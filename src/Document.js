@@ -1,4 +1,4 @@
-import { useEffect } from "react"
+
 
 
 export default function Document({ title, content }) {
